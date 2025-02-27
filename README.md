@@ -25,6 +25,11 @@ The project involved creating interactive dashboards in Tableau to visualize key
 2. Navigate through different sections, including customer segmentation, spending analysis, and recommendations.
 3. Use interactive filters to explore insights by city, income level, or spending category.
 
+
+## Explore the Interactive Dashboard  
+[Mitron Bank’s Credit Card Market Expansion](https://public.tableau.com/views/MitronBanksCreditCardMarketExpansion/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## Conclusion
 This project successfully leveraged Tableau to provide Mitron Bank with data-driven insights for its credit card expansion strategy. The dashboards offer a clear visualization of market trends, customer behaviors, and actionable recommendations to optimize product offerings and maximize customer acquisition.
 
